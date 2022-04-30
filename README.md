@@ -1,4 +1,4 @@
-IMDB
+Meta
 ====
 
 Meta provider for movies and TV series by Cinemeta.
